@@ -1,3 +1,5 @@
+/*from shivkumr*/
+
 const express = require("express");
 const path = require("path");
 const mongoose = require("mongoose");
@@ -44,7 +46,7 @@ app.set("view engine", "pug");
 app.set("views", path.join(__dirname, "templates"));
 app.use(
     session({
-        secret: "Pankajsingh",
+        secret: "nothing",
         resave: false,
         saveUninitialized: true,
     })
