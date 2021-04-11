@@ -6,7 +6,7 @@
   "scripts": {
     "test": "nodemon server.js"
   },
-  "author": "Shivkumar",
+  "author": "Shivkumar Chauhan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
