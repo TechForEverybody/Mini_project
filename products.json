@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "6058a81da8324b74bfb92baa"
+  },
+  "pdt_id": 1,
+  "pdt_name": "Samsung M20 64GB 4GB RAM",
+  "Sub_cat_id": 1,
+  "cat_id": 1,
+  "pdt_desc": "This phone is comes with the 64GB ROM and 4GB RAM",
+  "availablity": "available",
+  "price": 12000,
+  "specefications": {
+    "ram": "4GB",
+    "storage": "64GB",
+    "battery": "5000 MAh",
+    "front_cam": "13 MP"
+  },
+  "type": "phone",
+  "image": "https://i.gadgets360cdn.com/products/large/1548680918_635_samsung_galaxy_m20.jpg",
+  "pro_cat_id": 1,
+  "no_of_products": 10
+},{
+  "_id": {
+    "$oid": "606cc2fa1aefe949ecc86427"
+  },
+  "pdt_id": 2,
+  "pdt_name": "HP 14s-CR2000TU intel i5 10-gen Laptop",
+  "Sub_cat_id": 2,
+  "cat_id": 1,
+  "pdt_desc": "this laptop is comes withe the 8 GB RAM and 256SSD+1TB HDD",
+  "availablity": "available",
+  "price": 60000,
+  "specefications": {
+    "ram": "8GB",
+    "storage": "256GB SSD+1TB HDD",
+    "battery": "8 hour"
+  },
+  "type": "laptop",
+  "image": "https://images-na.ssl-images-amazon.com/images/I/81yaUrHPUoL._SL1500_.jpg",
+  "pro_cat_id": 3,
+  "no_of_products": 10
+},{
+  "_id": {
+    "$oid": "606cc5d42fe34c2fdc359858"
+  },
+  "pdt_id": 3,
+  "pdt_name": "Samsung 32 Inch HD Ready TV",
+  "Sub_cat_id": 3,
+  "cat_id": 1,
+  "pdt_desc": "This Samsung TV is Comes with the 720p HD Quality Video Streming Facility",
+  "availablity": "available",
+  "price": 15000,
+  "type": "Television",
+  "image": "https://images.samsung.com/is/image/samsung/in-hd-tv-t4340-ua32t4340akxxl-ua--t----akxxl-274199934?$720_576_PNG$",
+  "pro_cat_id": 6,
+  "no_of_products": 10,
+  "specifications": {
+    "screen_size": "32 inch"
+  }
+},{
+  "_id": {
+    "$oid": "606d968c05301b349050585f"
+  },
+  "pdt_id": 4,
+  "pdt_name": "Sandisk USB 2.0 64GB Cruzer Blade",
+  "Sub_cat_id": 2,
+  "cat_id": 1,
+  "pdt_desc": "This pen drive is comes with the ",
+  "availablity": "available",
+  "price": 1000,
+  "type": "pen drives",
+  "image": "https://rukminim1.flixcart.com/image/416/416/keiuxzk0/pendrive/pendrive/j/m/h/sandisk-sdcz5064gbpendrive-original-imafv6rmdmpqjgyk.jpeg?q=70",
+  "pro_cat_id": 4,
+  "no_of_products": 10,
+  "specifications": {
+    "transfer_speed": "100 MBPS"
+  }
+},{
+  "_id": {
+    "$oid": "607a7c17a9b1c711f4c8adb8"
+  },
+  "pdt_id": 5,
+  "pdt_name": "Samsung M20 64GB 4GB RAM",
+  "Sub_cat_id": 1,
+  "cat_id": 1,
+  "pdt_desc": "This phone is comes with the 64GB ROM and 4GB RAM",
+  "availablity": "available",
+  "price": 12000,
+  "specefications": {
+    "ram": "4GB",
+    "storage": "64GB",
+    "battery": "5000 MAh",
+    "front_cam": "13 MP"
+  },
+  "type": "phone",
+  "image": "https://i.gadgets360cdn.com/products/large/1548680918_635_samsung_galaxy_m20.jpg",
+  "pro_cat_id": 1,
+  "no_of_products": 10
+},{
+  "_id": {
+    "$oid": "607a7c20a9b1c711f4c8adb9"
+  },
+  "pdt_id": 6,
+  "pdt_name": "Samsung M20 64GB 4GB RAM",
+  "Sub_cat_id": 1,
+  "cat_id": 1,
+  "pdt_desc": "This phone is comes with the 64GB ROM and 4GB RAM",
+  "availablity": "available",
+  "price": 12000,
+  "specefications": {
+    "ram": "4GB",
+    "storage": "64GB",
+    "battery": "5000 MAh",
+    "front_cam": "13 MP"
+  },
+  "type": "phone",
+  "image": "https://i.gadgets360cdn.com/products/large/1548680918_635_samsung_galaxy_m20.jpg",
+  "pro_cat_id": 1,
+  "no_of_products": 10
+},{
+  "_id": {
+    "$oid": "607a7c30a9b1c711f4c8adba"
+  },
+  "pdt_id": 7,
+  "pdt_name": "Samsung 32 Inch HD Ready TV",
+  "Sub_cat_id": 3,
+  "cat_id": 1,
+  "pdt_desc": "This Samsung TV is Comes with the 720p HD Quality Video Streming Facility",
+  "availablity": "available",
+  "price": 15000,
+  "type": "Television",
+  "image": "https://images.samsung.com/is/image/samsung/in-hd-tv-t4340-ua32t4340akxxl-ua--t----akxxl-274199934?$720_576_PNG$",
+  "pro_cat_id": 6,
+  "no_of_products": 10,
+  "specifications": {
+    "screen_size": "32 inch"
+  }
+}]
